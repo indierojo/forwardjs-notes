@@ -2,7 +2,7 @@
 Sarah Mei
 
 ## Abstract
-None!
+None! Here's a recording from EmberConf! https://www.youtube.com/watch?v=UDp6eDCi1Vo
 
 ## 'Architecture'
 * Idea of development work being 'architecture' is a bit dated
@@ -32,7 +32,9 @@ None!
 ## So, how do we Fix / Maintain Our Code?
  * She recommends the following 4 steps:
    1. Don't let it get worse
-   2. 
-   3. 
-   4a,b,c,d.
- * ...
+   2. Value Improvement over Consistency
+   3. Inline Inline Inline // Fix that shit, don't create a story for tech debt.
+   4a. Don't ask permission. (but be upfront)
+   4b. Don't ask forgiveness. (but learn from mistakes)
+   4c. Do ask for advice. (but don't always take it)
+   4d. Do work together. (you've gotta live here)
